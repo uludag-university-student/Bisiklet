@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\my second project\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\my second project\project\project\obj\Debug\WindowsApp.frmGiris.resources
+C:\Users\Lenovo\Desktop\my second project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\my second project\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\my second project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
